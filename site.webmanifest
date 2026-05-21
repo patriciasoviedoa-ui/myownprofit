@@ -1,0 +1,17 @@
+{
+  "name": "CasaProfit",
+  "short_name": "CasaProfit",
+  "description": "Guías prácticas para trabajar desde casa, generar ingresos online, invertir con criterio y vender productos o servicios desde Norte y Sudamérica.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#147a4f",
+  "lang": "es-419",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "root_index": true,
+    "trabajos": true,
+    "chatgpt": true,
+    "sp500": true,
+    "binance": true,
+    "sitemap": true
+  },
+  "urls": [
+    "",
+    "ganar-dinero-desde-casa",
+    "trabajos-online",
+    "chatgpt-para-ganar-dinero",
+    "sp500",
+    "binance",
+    "invertir-desde-casa",
+    "vender-desde-casa",
+    "guias"
+  ]
+}

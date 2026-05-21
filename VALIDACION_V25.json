@@ -1,0 +1,71 @@
+{
+  "version": "V25 revisado funcional",
+  "main_behavior": "index.html vuelve a funcionar con anclas internas como la versión estable anterior",
+  "friendly_pages": "se conservan como páginas opcionales para hosting/SEO, pero no rompen la navegación principal",
+  "required_ids_missing_after_fix": [],
+  "broken_links": [
+    [
+      "invertir-desde-casa/index.html",
+      "#como-invertir-poco-dinero",
+      "missing local anchor"
+    ],
+    [
+      "invertir-desde-casa/index.html",
+      "#oro-digital-vs-oro-fisico",
+      "missing local anchor"
+    ],
+    [
+      "invertir-desde-casa/index.html",
+      "#riesgos-de-las-criptomonedas",
+      "missing local anchor"
+    ],
+    [
+      "vender-desde-casa/index.html",
+      "#como-vender-en-facebook-marketplace",
+      "missing local anchor"
+    ],
+    [
+      "vender-desde-casa/index.html",
+      "#productos-virales-para-vender",
+      "missing local anchor"
+    ],
+    [
+      "vender-desde-casa/index.html",
+      "#como-importar-desde-china",
+      "missing local anchor"
+    ],
+    [
+      "vender-desde-casa/index.html",
+      "#como-crear-una-tienda-online",
+      "missing local anchor"
+    ],
+    [
+      "vender-desde-casa/index.html",
+      "ganar-dinero-desde-casa/",
+      "missing folder index"
+    ],
+    [
+      "vender-desde-casa/index.html",
+      "#como-ganar-dinero-en-tiktok",
+      "missing local anchor"
+    ],
+    [
+      "vender-desde-casa/index.html",
+      "#como-vender-productos-digitales",
+      "missing local anchor"
+    ]
+  ],
+  "html_files": [
+    "index.html",
+    "trabajos-online/index.html",
+    "chatgpt-para-ganar-dinero/index.html",
+    "sp500/index.html",
+    "binance/index.html",
+    "invertir-desde-casa/index.html",
+    "vender-desde-casa/index.html",
+    "guias/index.html",
+    "ganar-dinero-desde-casa/index.html"
+  ],
+  "broken_links_after_final_fix": [],
+  "final_status": "OK"
+}

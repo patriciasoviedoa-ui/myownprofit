@@ -1,0 +1,2 @@
+ABRIR SOLAMENTE: index.html
+Logo corregido. Botones internos funcionales. Un solo index principal.
